@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIpc8b95HAEFHMmIA7zyQ+x2eWT6tM0RJjFU8r84Yj/nVyqpWWD7UaXKTb23FObN7Q3uEzjJrbT6yRTLapeI7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4109s\\Documents\\C++\\To-do\\To-do\\To-do\\To-do.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4109s\\.nuget\\packages\\bunifu.ui.winforms\\5.3.0\\bunifu.ui.winforms.5.3.0.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\bunifu.utils\\1.0.6\\bunifu.utils.1.0.6.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\servicestack.common\\4.0.42\\servicestack.common.4.0.42.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\servicestack.interfaces\\4.0.42\\servicestack.interfaces.4.0.42.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\servicestack.ormlite\\4.0.42\\servicestack.ormlite.4.0.42.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\servicestack.ormlite.sqlite64\\4.0.42\\servicestack.ormlite.sqlite64.4.0.42.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\servicestack.text\\4.0.42\\servicestack.text.4.0.42.nupkg.sha512",
+    "C:\\Users\\4109s\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'Bunifu.UI.WinForms 5.3.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "Bunifu.UI.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'Bunifu.Utils 1.0.6'。此套件與您的專案並非完全相容。",
+      "libraryId": "Bunifu.Utils",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.Common 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.Common",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.Interfaces 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.Interfaces",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.OrmLite 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.OrmLite",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.OrmLite.Sqlite64 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.OrmLite.Sqlite64",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.Text 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.Text",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

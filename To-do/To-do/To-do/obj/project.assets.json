@@ -1,0 +1,526 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Bunifu.UI.WinForms/5.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Bunifu.Licensing.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.1.5.3.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuButton.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuCheckBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuCircleProgress.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuColorTransition.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuDataGridView.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuDatePicker.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuDropdown.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuFormDock.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuGauge.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuGradientPanel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuGroupBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuImageButton.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuLabel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuLoader.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuPages.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuPanel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuPictureBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuProgressBar.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuRadioButton.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuRating.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuScrollBar.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuSeparator.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuShadowPanel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuShapes.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuSlider.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuSnackbar.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuTextBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuToggleSwitch.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuToolTip.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuTransition.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuUserControl.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.Deprecated.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Bunifu.Licensing.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.1.5.3.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuButton.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuCheckBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuCircleProgress.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuColorTransition.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuDataGridView.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuDatePicker.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuDropdown.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuFormDock.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuGauge.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuGradientPanel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuGroupBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuImageButton.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuLabel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuLoader.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuPages.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuPanel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuPictureBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuProgressBar.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuRadioButton.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuRating.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuScrollBar.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuSeparator.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuShadowPanel.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuShapes.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuSlider.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuSnackbar.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuTextBox.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuToggleSwitch.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuToolTip.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuTransition.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.BunifuUserControl.dll": {},
+          "lib/net40/Bunifu.UI.WinForms.Deprecated.dll": {}
+        }
+      },
+      "Bunifu.Utils/1.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Bunifu.UI.WinForms": "5.0.1"
+        },
+        "compile": {
+          "lib/net/Bunifu.Utils.dll": {}
+        },
+        "runtime": {
+          "lib/net/Bunifu.Utils.dll": {}
+        }
+      },
+      "ServiceStack.Common/4.0.42": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "4.0.42",
+          "ServiceStack.Text": "4.0.42"
+        },
+        "compile": {
+          "lib/net40/ServiceStack.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net40/ServiceStack.Common.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/4.0.42": {
+        "type": "package",
+        "compile": {
+          "lib/portable-wp80+sl5+net40+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/portable-wp80+sl5+net40+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite/4.0.42": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "4.0.42"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.OrmLite.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite.Sqlite64/4.0.42": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.OrmLite": "4.0.42"
+        },
+        "compile": {
+          "lib/net40/ServiceStack.OrmLite.SqliteNET.dll": {},
+          "lib/net40/System.Data.SQLite.dll": {}
+        },
+        "runtime": {
+          "lib/net40/ServiceStack.OrmLite.SqliteNET.dll": {},
+          "lib/net40/System.Data.SQLite.dll": {}
+        }
+      },
+      "ServiceStack.Text/4.0.42": {
+        "type": "package",
+        "compile": {
+          "lib/net40/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net40/ServiceStack.Text.dll": {}
+        }
+      },
+      "SQLite/3.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libsqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/libsqlite3.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win7-x64/native/sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bunifu.UI.WinForms/5.3.0": {
+      "sha512": "pgFjMOIqj6oLRnjsqgjtUSiia9iGx7tXMWQw+GvGW4MuZ0dUoMJGKypFGvRM4xUipebj9Mn/vx4LndwIOBwHHQ==",
+      "type": "package",
+      "path": "bunifu.ui.winforms/5.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.txt",
+        "bunifu.ui.winforms.5.3.0.nupkg.sha512",
+        "bunifu.ui.winforms.nuspec",
+        "lib/Assets/CHANGELOG.txt",
+        "lib/Assets/Icon.png",
+        "lib/Assets/LICENSE.txt",
+        "lib/net40/Bunifu.Licensing.dll",
+        "lib/net40/Bunifu.UI.WinForms.1.5.3.dll",
+        "lib/net40/Bunifu.UI.WinForms.1.5.3.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuButton.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuButton.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuCheckBox.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuCheckBox.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuCircleProgress.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuCircleProgress.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuColorTransition.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuColorTransition.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuDataGridView.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuDataGridView.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuDatePicker.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuDatePicker.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuDropdown.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuDropdown.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuFormDock.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuFormDock.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuGauge.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuGauge.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuGradientPanel.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuGradientPanel.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuGroupBox.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuGroupBox.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuImageButton.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuImageButton.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuLabel.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuLabel.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuLoader.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuLoader.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuPages.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuPages.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuPanel.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuPanel.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuPictureBox.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuPictureBox.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuProgressBar.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuProgressBar.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuRadioButton.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuRadioButton.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuRating.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuRating.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuScrollBar.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuScrollBar.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuSeparator.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuSeparator.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuShadowPanel.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuShadowPanel.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuShapes.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuShapes.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuSlider.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuSlider.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuSnackbar.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuSnackbar.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuTextBox.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuTextBox.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuToggleSwitch.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuToggleSwitch.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuToolTip.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuToolTip.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuTransition.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuTransition.xml",
+        "lib/net40/Bunifu.UI.WinForms.BunifuUserControl.dll",
+        "lib/net40/Bunifu.UI.WinForms.BunifuUserControl.xml",
+        "lib/net40/Bunifu.UI.WinForms.Deprecated.dll"
+      ]
+    },
+    "Bunifu.Utils/1.0.6": {
+      "sha512": "9sad8WB8h1GdJd0ZD1CBn+i8D156FbtNvDiLciEopU48nB74xwvhJbvK3On/kEjNMS0HZ/961owDYCW3NC3sAA==",
+      "type": "package",
+      "path": "bunifu.utils/1.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bunifu.utils.1.0.6.nupkg.sha512",
+        "bunifu.utils.nuspec",
+        "lib/Assets/icon.png",
+        "lib/net/Bunifu.Utils.dll"
+      ]
+    },
+    "ServiceStack.Common/4.0.42": {
+      "sha512": "uuG2Xf12y2Wm/yzv+dcfXXLRIzkuWKeZNQOV78sPn8du9MbJR0sLMugwxtGoyAxrOEhzzS8evOILHb5HxYwCZQ==",
+      "type": "package",
+      "path": "servicestack.common/4.0.42",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ServiceStack.Common.dll",
+        "lib/net40/ServiceStack.Common.xml",
+        "servicestack.common.4.0.42.nupkg.sha512",
+        "servicestack.common.nuspec"
+      ]
+    },
+    "ServiceStack.Interfaces/4.0.42": {
+      "sha512": "XxdSuQCg7pB/Ps+c+J+yN5KNDmbYfL5vxdsXBXuUf85csEJOJWOuM8aLo9l/3dvajcprkzt39ilHF6q5Yll/hQ==",
+      "type": "package",
+      "path": "servicestack.interfaces/4.0.42",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/portable-wp80+sl5+net40+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll",
+        "servicestack.interfaces.4.0.42.nupkg.sha512",
+        "servicestack.interfaces.nuspec"
+      ]
+    },
+    "ServiceStack.OrmLite/4.0.42": {
+      "sha512": "IaNkTGLl+32baHghg+tjaGEFBljLFYL9TfluHjacE61SSd1VYhmjxO/7WYS+4P6qzPZDGAXazwbmWryX6E7WuA==",
+      "type": "package",
+      "path": "servicestack.ormlite/4.0.42",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ServiceStack.OrmLite.dll",
+        "lib/net40/ServiceStack.OrmLite.xml",
+        "lib/net45/ServiceStack.OrmLite.dll",
+        "servicestack.ormlite.4.0.42.nupkg.sha512",
+        "servicestack.ormlite.nuspec"
+      ]
+    },
+    "ServiceStack.OrmLite.Sqlite64/4.0.42": {
+      "sha512": "/zolqGqCiizE1nyD+BOc3fo1FNUNE4Qyh5DE6HabK1ajKgepEQVr+IHf/MfMwGnIo3b78j7rGt7HVEbN2QYZ8g==",
+      "type": "package",
+      "path": "servicestack.ormlite.sqlite64/4.0.42",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ServiceStack.OrmLite.SqliteNET.dll",
+        "lib/net40/System.Data.SQLite.dll",
+        "lib/net40/System.Data.SQLite.xml",
+        "servicestack.ormlite.sqlite64.4.0.42.nupkg.sha512",
+        "servicestack.ormlite.sqlite64.nuspec"
+      ]
+    },
+    "ServiceStack.Text/4.0.42": {
+      "sha512": "kItUyHJOQduMnpBuPLJaw/ZYQyQBrcC7QU5iorotuzHomDZza7uIzimNZ04wi29DhINbTK0pSCwWh2vZKvaorQ==",
+      "type": "package",
+      "path": "servicestack.text/4.0.42",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ServiceStack.Text.dll",
+        "lib/net40/ServiceStack.Text.xml",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Text.dll",
+        "lib/sl5/ServiceStack.Text.dll",
+        "lib/sl5/ServiceStack.Text.xml",
+        "servicestack.text.4.0.42.nupkg.sha512",
+        "servicestack.text.nuspec"
+      ]
+    },
+    "SQLite/3.13.0": {
+      "sha512": "MJfRiz2p6aMVOxrxGMdVzhpzI0oxTgZSwC8eVuOpV8L7yYaFUu8q/OFYwv9P0/aZ/pdEu24O6gma6wZJMTun9A==",
+      "type": "package",
+      "path": "sqlite/3.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net45/SQLite.props",
+        "lib/netstandard1.0/_._",
+        "runtimes/linux-x64/native/libsqlite3.so",
+        "runtimes/osx-x64/native/libsqlite3.dylib",
+        "runtimes/win10-arm/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win10-x64/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win10-x86/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win7-x64/native/sqlite3.dll",
+        "runtimes/win7-x86/native/sqlite3.dll",
+        "sqlite-version.txt",
+        "sqlite.3.13.0.nupkg.sha512",
+        "sqlite.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Bunifu.UI.WinForms >= 5.3.0",
+      "Bunifu.Utils >= 1.0.6",
+      "SQLite >= 3.13.0",
+      "ServiceStack.OrmLite.Sqlite64 >= 4.0.42"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\4109s\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\4109s\\Documents\\C++\\To-do\\To-do\\To-do\\To-do.csproj",
+      "projectName": "To-do",
+      "projectPath": "C:\\Users\\4109s\\Documents\\C++\\To-do\\To-do\\To-do\\To-do.csproj",
+      "packagesPath": "C:\\Users\\4109s\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\4109s\\Documents\\C++\\To-do\\To-do\\To-do\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\4109s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Bunifu.UI.WinForms": {
+            "target": "Package",
+            "version": "[5.3.0, )"
+          },
+          "Bunifu.Utils": {
+            "target": "Package",
+            "version": "[1.0.6, )"
+          },
+          "SQLite": {
+            "target": "Package",
+            "version": "[3.13.0, )"
+          },
+          "ServiceStack.OrmLite.Sqlite64": {
+            "target": "Package",
+            "version": "[4.0.42, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'Bunifu.UI.WinForms 5.3.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "Bunifu.UI.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'Bunifu.Utils 1.0.6'。此套件與您的專案並非完全相容。",
+      "libraryId": "Bunifu.Utils",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.Common 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.Common",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.Interfaces 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.Interfaces",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.OrmLite 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.OrmLite",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.OrmLite.Sqlite64 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.OrmLite.Sqlite64",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'ServiceStack.Text 4.0.42'。此套件與您的專案並非完全相容。",
+      "libraryId": "ServiceStack.Text",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

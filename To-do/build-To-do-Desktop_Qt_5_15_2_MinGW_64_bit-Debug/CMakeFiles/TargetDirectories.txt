@@ -1,0 +1,5 @@
+C:/Users/4109s/Documents/C++/To-do/build-To-do-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/To-do.dir
+C:/Users/4109s/Documents/C++/To-do/build-To-do-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/4109s/Documents/C++/To-do/build-To-do-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/4109s/Documents/C++/To-do/build-To-do-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/To-do_autogen_timestamp_deps.dir
+C:/Users/4109s/Documents/C++/To-do/build-To-do-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/To-do_autogen.dir
